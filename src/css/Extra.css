@@ -20,27 +20,28 @@
     border-radius: 50%;
     width: 60px;
     height: 60px;
-    position: relative;
-    bottom: 650px;
-    left: 400px;
+    position: absolute;
+    bottom: 70%;
+    left: 20%;
 }
 
 .e-card-trophy-trash {
-    left: 800px;
-    bottom: 420px;
+    left: 50%;
+    bottom: 42%;
 }
 
 .hiking-text, .trash-text {
     color: white;
-    position: relative;
+    position: absolute;
     bottom: 600px;
 }
 
 .hiking-text {
     display: none;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    position: relative;
-    left: 150px;
+    position: absolute;
+    bottom: 66%;
+    left: 20%;
 }
 
 .e-card-trophy-boot:hover + .hiking-text {
@@ -51,9 +52,9 @@
 .trash-text {
     display: none;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    position: relative;
-    left: 650px;
-    bottom: 370px;
+    position: absolute;
+    left: 50%;
+    bottom: 38%;
 }
 
 .e-card-trophy-trash:hover + .trash-text {
