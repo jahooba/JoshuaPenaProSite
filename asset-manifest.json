@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/JoshuaPenaProSite/static/css/main.cb775554.css",
+    "main.css": "/JoshuaPenaProSite/static/css/main.d7e3ccd1.css",
     "main.js": "/JoshuaPenaProSite/static/js/main.cf379310.js",
     "static/js/453.bb828c5d.chunk.js": "/JoshuaPenaProSite/static/js/453.bb828c5d.chunk.js",
     "static/media/terminal screen.gif": "/JoshuaPenaProSite/static/media/terminal screen.055eebb1ea2d253726e1.gif",
@@ -20,12 +20,12 @@
     "static/media/pixel phone.jpg": "/JoshuaPenaProSite/static/media/pixel phone.f2babc13ae35fb845593.jpg",
     "static/media/pixel computer.jpg": "/JoshuaPenaProSite/static/media/pixel computer.cbbbac4698e48c298f9c.jpg",
     "index.html": "/JoshuaPenaProSite/index.html",
-    "main.cb775554.css.map": "/JoshuaPenaProSite/static/css/main.cb775554.css.map",
+    "main.d7e3ccd1.css.map": "/JoshuaPenaProSite/static/css/main.d7e3ccd1.css.map",
     "main.cf379310.js.map": "/JoshuaPenaProSite/static/js/main.cf379310.js.map",
     "453.bb828c5d.chunk.js.map": "/JoshuaPenaProSite/static/js/453.bb828c5d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb775554.css",
+    "static/css/main.d7e3ccd1.css",
     "static/js/main.cf379310.js"
   ]
 }
