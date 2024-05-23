@@ -1,0 +1,23 @@
+#contact-container {
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    position: relative;
+    padding-top: 10px;
+    bottom: 525px;
+}
+
+.contact-github {
+    position: relative;
+    bottom: 8px;
+    height: 120px;
+}
+
+.contact-linkedin {
+    height: 100px;
+}
+
+.contact-gmail {
+    height: 100px;
+}

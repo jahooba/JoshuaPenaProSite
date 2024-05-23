@@ -1,0 +1,31 @@
+#experience-container {
+    background-color: transparent;
+    position: relative;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    bottom: 400px;
+}
+
+.e-card-exp {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.e-card-trophy {
+    border: solid;
+    border-radius: 50%;
+    width: 90px;
+    height: 90px;
+    position: relative;
+    top: 25px;
+}
+
+.avatar {
+    position: relative;
+    top: 55px;
+    width: 400px;
+    border: solid;
+    border-color: green;
+    border-radius: 15px;
+}

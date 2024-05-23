@@ -1,0 +1,37 @@
+#hero-container {
+    background-color: transparent;
+    color: white;
+}
+
+.hero-container-gif {
+    height: auto;
+    width: 100%;
+    position: relative;
+    bottom: 225px;
+    z-index: 0;
+}
+
+.hero-portrait {
+    max-width: 350px;
+    border: solid;
+    border-radius: 50%;
+}
+
+.hero-portrait-container {
+    position: absolute;
+    top: 160px;
+    left: 38%;
+    z-index: 5;
+}
+
+.hero-name {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.marquee-hero-description {
+    position: absolute;
+    top: -365px;
+    z-index: 4;
+    background-color: black;
+    height: 80px;
+}

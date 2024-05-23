@@ -1,0 +1,52 @@
+#education-container {
+    background-color: transparent;
+    position: relative;
+    z-index: 4;
+    bottom: 400px;
+}
+
+.education-container-gif {
+    height: auto;
+    width: 100%;
+    z-index: 1;
+}
+
+.e-card-group-education {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 900px;
+    position: absolute;
+    bottom: 100px;
+    right: 0px;
+    scale: .85;
+    z-index: 4;
+}
+
+.ucr-degree, .mvc-degree {
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    border: solid;
+}
+
+.ucr-degree:hover {
+    border: solid;
+    border-color: gold;
+}
+
+.mvc-degree:hover {
+    border: solid;
+    border-color: teal;
+}
+
+.e-card-degree-text {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    margin: 10px;
+}
+
+.e-card-degree-seal {
+    max-width: 90px;
+}
